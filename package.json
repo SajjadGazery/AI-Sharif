@@ -1,0 +1,12 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "ai imtmc project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass assets/css/main.scss assets/css/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
